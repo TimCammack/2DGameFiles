@@ -1,5 +1,5 @@
 {
-	"name": "com.2DGameFiles.sampleunitypackage",
+	"name": "com.TimCammack.sampleunitypackage",
 	"version": "1.0.0",
 	"displayname": "2DGameFiles Sample Project",
 	"description": "simple platformer scripts",
@@ -7,6 +7,6 @@
 	"author":{
 		"name": "Tim Cammack",
 		"email": "",
-		"url": ""
+		"url": "" 
 	}
 }
