@@ -8,13 +8,12 @@
 		"name": "Tim Cammack",
 		"email": "",
 		"url": "" 
-	}
-	{
+	},
+	
     "samples": [
         {
             "displayName": "2D Games"
         }
         
     ]
-}
 }
